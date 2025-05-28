@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main-page{
+    display: block;
+    text-align: center;
+    border: 2px solid black;
+    width: 400px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+#name{
+    width: 50vh;
+    height: 20px;
+    border-radius: 5px;
+}
